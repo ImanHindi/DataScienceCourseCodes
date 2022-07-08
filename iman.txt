@@ -1,1 +1,3 @@
+git commit iman.txt https://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@github.com/ImanHindi/iman.git -m "done"                                               
 this is iman first use of git :)
+it's me iman 
